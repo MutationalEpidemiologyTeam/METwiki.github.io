@@ -1,4 +1,4 @@
-Why using conda ? 
+# Why using conda ? 
 It can be useful when you want to use specific packages that cannot be loaded on the SIT platform
 
 How to use conda ?
