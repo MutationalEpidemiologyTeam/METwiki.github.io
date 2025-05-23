@@ -1,9 +1,9 @@
 # Mutational Epidemiology Team
 
-## Overarching Goal: 
+## Overarching Goal
 To lead global efforts in understanding cancer causation by using the analysis of genome sequences as a tool to investigate known and novel risk factors, especially in low- and middle-income countries (LMICs). The MET aims to identify patterns of mutagenesis that reflect environmental, lifestyle, and endogenous exposures—thereby providing epidemiological and mechanistic evidence that informs cancer prevention and public health strategies. 
 
-## Team Leaders:
+## Team Leaders
 The Mutational Epidemiology Team (MET) will be co-led by Dr Aida Ferreiro, Dr Ana Carolina de Carvalho, Dr Paul Brennan and Dr Sandra Perdomo, all based within the [Genomic Epidemiology Branch (GEM) at IARC](https://www.iarc.who.int/branches-gem/). Together, they bring deep expertise in cancer epidemiology, international consortia coordination, cancer genomics and strategic leadership. 
 
 ## Team Members 
