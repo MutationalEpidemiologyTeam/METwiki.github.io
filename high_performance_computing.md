@@ -1,6 +1,6 @@
 ---
 title: High Performance Computing
-nav_order: 2
+nav_order: 3
 ---
 
 # High Performance Computing
