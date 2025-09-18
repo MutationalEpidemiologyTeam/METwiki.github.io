@@ -28,14 +28,3 @@ For example :
 
 For step 10, you can also run a R script in bash like this : 
 <pre>Rscript /home/aixm/discern_kidney/1_data_analysis/040225_test_file.R</pre>
-
-  
-
-
-
-
-
-  
-
-
-
