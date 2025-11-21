@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: The MET Wiki
 nav_order: 4
 ---
 
