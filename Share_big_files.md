@@ -3,7 +3,7 @@ No problem, IARC has a solution for you.
 This is called File Depot !
 
 Steps to use it :
-1. Copy paste this link in your browser : https://filedepot.iarc.fr/new/
+1. Copy paste this [link](https://filedepot.iarc.fr/new/) in your browser
 2. Give a name to your file depot
 3. Create a password for admin
 4. Create a password for contributor
