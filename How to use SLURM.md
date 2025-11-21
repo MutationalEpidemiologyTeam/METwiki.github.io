@@ -3,6 +3,8 @@ SLURM is a cluster management system where jobs can be created and scheduled.
 The following codes are for creating jobs, allocating resources.
 The SIT help pages on this are located at https://readthedocs.sit.iarc.fr/hpc/slurm.html#slurm
 
+**WARNING: NEVER RUN A JOB ON THE HEAD NODE (hn)!!!**
+
 ### Getting started on the cluster
 ```{r}
 # Login to cluster (command line):
@@ -18,12 +20,14 @@ screen
 srun --pty bash -i
 
 # Start an interactive srun session with resources:
-srun --cpus-per-task=4 --ntasks=1 --pty bash -i
+srun --cpus-per-task=4 --ntasks=1 --partition=low_p --pty bash -i
 ```
 
 ### SBATCH for queuing jobs
 ```{r}
-# Start an sbatch session with resources:
+## Start an sbatch session with resources
+# 1. Create bash (.sh) file containing the following text, with task underneath:
+
 #!/bin/bash
 #SBATCH --job-name=METTY
 #SBATCH --account=gcs
@@ -31,13 +35,18 @@ srun --cpus-per-task=4 --ntasks=1 --pty bash -i
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=25gb                   
 #SBATCH --time=5:00:00
+#SBATCH --partition=low_p
+printf "Hello, World!\n"
 
-# Run sbatch via a bash (.sh) file:
+# 2. Run sbatch via a bash (.sh) file:
 sbatch <filename.sh>
 ```
 
 ### Extras
 ```{r}
+# optional arguments:
+#SBATCH --nodelist=cn10
+
 # Resume ongoing job using job ID:
 sattach <job ID>.0
 
