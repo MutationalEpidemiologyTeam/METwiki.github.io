@@ -1,3 +1,9 @@
+---
+title: The MET Wiki
+nav_order: 4
+---
+
+
 # What is a Lab Wiki?
 - A digital space to organize lab knowledge.
 - Think of it as a lab manual, FAQ, and resource hub.

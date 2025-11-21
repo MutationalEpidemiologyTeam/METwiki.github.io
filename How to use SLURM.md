@@ -1,3 +1,9 @@
+---
+title: How to run SLURM
+nav_order: 2
+parent: Computing Resources
+---
+
 # How to run SLURM (SRUN and SBATCH)
 SLURM is a cluster management system where jobs can be created and scheduled.
 The following codes are for creating jobs, allocating resources.
