@@ -1,3 +1,10 @@
+---
+title: Conda
+nav_order: 3
+parent: Computing Resources
+---
+
+
 # Why using conda ? 
 It can be useful when you want to use specific packages that cannot be loaded on the SIT platform
 
