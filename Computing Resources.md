@@ -1,5 +1,5 @@
 ---
-title: Coding tips
+title: Computing Resources
 nav_order: 5
 has_children: true
 ---
