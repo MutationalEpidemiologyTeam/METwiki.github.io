@@ -1,7 +1,9 @@
 ---
 title: High Performance Computing
-nav_order: 3
+nav_order: 1
+parent: Computing Resources
 ---
+
 
 # High Performance Computing
 
