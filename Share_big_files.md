@@ -1,3 +1,10 @@
+---
+title: Sharing large files
+nav_order: 6
+parent: Computing Resources
+author: Marie Laure Aix
+---
+
 You want to share a big presentation with your PI or colleague but you do not know how to do it ?
 No problem, IARC has a solution for you. 
 This is called File Depot !
