@@ -1,11 +1,10 @@
 ---
-title: High Performance Computing
+title: Good coding practices
 nav_order: 4
 parent: Computing Resources
 ---
 
-
-# Good coding practices
+# Good coding practices in R
 Good coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. 
 
 “Always code as if the guy
@@ -15,7 +14,6 @@ psychopath who knows
 where you live”
 
 Martin Golding
-
 
 ## Tidyverse
 This site describes the style used throughout the tidyverse: [https://style.tidyverse.org/](https://style.tidyverse.org/)
