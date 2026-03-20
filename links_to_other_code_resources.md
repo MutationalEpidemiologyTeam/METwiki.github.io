@@ -1,8 +1,9 @@
 ---
-title: "links_to_other_code_resources"
+title: Links to Manuscript resources
 author: "Thomas Cattiaux"
 date: "2025-05-23"
 output: html_document
+parent: Mutational Epidemiology Team
 ---
 # Links to other code resources
 
