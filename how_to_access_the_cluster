@@ -1,0 +1,7 @@
+You just arrived at IARC and you want to access the cluster ?
+
+    First, request your access by sending an email to IT-Services@iarc.who.int
+    Check the documentation here : https://readthedocs.sit.iarc.fr/index.html
+    Access the cluster here : https://portal.sit.iarc.fr/pun/sys/dashboard
+    You want to run a job interactively ? Just click on one of the apps (RStudio, JupyterLab, Visual Studio Code...)
+    You want to run a job using the shell ? Just go in Clusters and Osiris Shell Access
