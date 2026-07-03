@@ -1,3 +1,11 @@
+---
+title: How to Git
+nav_order: 7
+parent: Computing Resources
+author: Laura Torrens
+---
+
+
 # Git
 
 This section contains information about how you can use Git to manage your projects in terms of
